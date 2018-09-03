@@ -1,0 +1,13 @@
+63434397eab8c17935c680e4f9a22c8d *DESCRIPTION
+428c0575fd0dd49cb3f63c049d33ff2a *NAMESPACE
+3aca06fd1778dbb0124419f625b1bcb9 *R/lpm2_kdtree.R
+8a7900006ee90f1906cd0c07018c4e5e *R/split.R
+0cea69814c8ce9c12c2d85c304ddf698 *man/SamplingBigData-package.Rd
+ffeb80e01a24a440634fbc4e3c87a7c0 *man/lpm2_kdtree.Rd
+aad0ed4a482b73d93a3a3e966c402875 *man/split_sample.Rd
+48e3462b797fd502c3659113c9e5faca *src/kdtree_lpm.c
+97dd718f34c29194109254f39a884840 *src/kdtree_lpm.h
+87ccf666a3fb7fac6f08e26fd0e3d7ae *src/lpm3.c
+18c64a720cffaf8eeaf3ddec40fdd014 *src/lpm3.h
+f9cdeac6a29962bbf0d715e1eb068153 *src/median.c
+186921b7defcec0e5acd67f73c50015d *src/median.h
